@@ -110,6 +110,13 @@ current_direction: Building reliable AI solutions that integrate seamlessly with
 
 ---
 
+## Education
+
+- **Istanbul Gelisim University** — B.Sc. in Management Information Systems (2022 – 2026) · GPA: 3.10 / 4.00 (Honor Degree)
+- **Özel Aksaray Vizyon Akademi Anadolu Lisesi** — High School Diploma, Equal Weight (2016 – 2020) · Grade: 90.07 / 100
+
+---
+
 ## Current Roadmap
 
 - Scaling and securing enterprise AI agents in production environments.
