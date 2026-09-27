@@ -52,11 +52,11 @@ current_direction: Building reliable AI solutions that integrate seamlessly with
 
 | Project | What it does | Stack / Focus |
 | --- | --- | --- |
-| **[Tracefold](https://github.com/fufuizm/Tracefold)** | Privacy-first, fully local RAG assistant powered by Microsoft Foundry Local. Built during the Microsoft AI Innovators program. | RAG, Vector Search, Local LLMs |
-| **[Roadmind](https://github.com/fufuizm/Roadmind)** | AI Project Prompt Studio for Coding Agents, streamlining development workflows. | AI Agents, Prompt Studio |
-| **[AI-Powered CRM](https://github.com/fufuizm/ai-powered-crm)** | Operational CRM & Decision Support Platform augmented with AI capabilities. | CRM, AI Integration, Python |
-| **[vCalendar & vHealth](https://github.com/fufuizm/vcalendar)** | AI-Powered Calendar/Productivity and Personal Health assistants. | LLM Applications, Productivity |
-| **[Homelab / Infra](https://github.com/fufuizm/k8s-homelab)** | AI-Powered Container-Based Server & Infrastructure Automation System. | Kubernetes, Docker, Automation |
+| **[Tracefold](https://github.com/furkan-sarica/tracefold)** | Privacy-first, fully local RAG assistant powered by Microsoft Foundry Local, SQLite vectors & bilingual evaluation suite. | RAG, FastAPI, Vector Search, Local LLMs |
+| **[Roadmind](https://github.com/furkan-sarica)** | AI Project Prompt Studio for Coding Agents, streamlining structured prompt workflows. | React, TypeScript, NVIDIA NIM, Ollama |
+| **[AI CRM Platform](https://github.com/furkan-sarica)** | Operational CRM & Decision Support Platform with OCR intake and AI insight generation. | React, TypeScript, Express, SQLite, OCR |
+| **[k8s-homelab](https://github.com/furkan-sarica/k8s-homelab)** | Production-style Kubernetes homelab with GitOps, ingress, monitoring and automated deployments. | K3s, ArgoCD, Prometheus, Grafana |
+| **[monitoring-stack](https://github.com/furkan-sarica/monitoring-stack)** | Enterprise-grade observability stack for service health, metrics, dashboards and alerting. | Prometheus, Grafana, Loki, Alertmanager |
 
 ---
 
