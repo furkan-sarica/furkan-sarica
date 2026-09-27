@@ -53,8 +53,8 @@ current_direction: Building reliable AI solutions that integrate seamlessly with
 | Project | What it does | Stack / Focus |
 | --- | --- | --- |
 | **[Tracefold](https://github.com/furkan-sarica/tracefold)** | Privacy-first, fully local RAG assistant powered by Microsoft Foundry Local, SQLite vectors & bilingual evaluation suite. | RAG, FastAPI, Vector Search, Local LLMs |
+| **[SAP B1 AI Platform](https://github.com/furkan-sarica)** | Enterprise AI agent platform synchronizing 58+ entities with deterministic validation and SAP write flows. | SAP Business One, Python, Flask, AI Agents |
 | **[Roadmind](https://github.com/furkan-sarica)** | AI Project Prompt Studio for Coding Agents, streamlining structured prompt workflows. | React, TypeScript, NVIDIA NIM, Ollama |
-| **[AI CRM Platform](https://github.com/furkan-sarica)** | Operational CRM & Decision Support Platform with OCR intake and AI insight generation. | React, TypeScript, Express, SQLite, OCR |
 | **[k8s-homelab](https://github.com/furkan-sarica/k8s-homelab)** | Production-style Kubernetes homelab with GitOps, ingress, monitoring and automated deployments. | K3s, ArgoCD, Prometheus, Grafana |
 | **[monitoring-stack](https://github.com/furkan-sarica/monitoring-stack)** | Enterprise-grade observability stack for service health, metrics, dashboards and alerting. | Prometheus, Grafana, Loki, Alertmanager |
 
