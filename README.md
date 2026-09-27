@@ -26,7 +26,7 @@ My focus is simple: building reliable AI systems that solve real business proble
 name: Furkan SARICA
 role: AI Solutions Engineer @ CloudSpark Cloud Data & AI Technologies
 education: Management Information Systems (B.Sc., Honor Degree)
-location: Istanbul / Ankara, Turkiye
+location: Çankaya, Ankara, Türkiye
 focus:
   - AI Agents, RAG, and LLM Applications
   - Enterprise ERP Integrations (SAP Business One)
