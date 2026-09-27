@@ -24,7 +24,7 @@ My focus is simple: building reliable AI systems that solve real business proble
 
 ```yaml
 name: Furkan SARICA
-role: AI Solutions Engineer @ CLOUDSPARK CLOUD DATA&AI TECHNOLOGIES
+role: AI Solutions Engineer @ CloudSpark Cloud Data & AI Technologies
 education: Management Information Systems (B.Sc., Honor Degree)
 location: Istanbul / Ankara, Turkiye
 focus:
