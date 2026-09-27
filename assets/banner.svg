@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 220" width="100%" height="220" fill="none">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070a12" />
+      <stop offset="50%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#0a1220" />
+    </linearGradient>
+
+    <!-- Title Gradient -->
+    <linearGradient id="titleGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="70%" stop-color="#e2e8f0" />
+      <stop offset="100%" stop-color="#94a3b8" />
+    </linearGradient>
+
+    <!-- Accent Beam Gradient -->
+    <linearGradient id="beamGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="35%" stop-color="#6366f1" />
+      <stop offset="70%" stop-color="#10b981" />
+      <stop offset="100%" stop-color="#38bdf8" />
+    </linearGradient>
+
+    <!-- Subtle Glow Filters -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="24" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <!-- Background Tech Grid Pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.05" />
+      <circle cx="40" cy="0" r="1.5" fill="#38bdf8" fill-opacity="0.1" />
+    </pattern>
+  </defs>
+
+  <style>
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-size: 40px;
+      font-weight: 800;
+      letter-spacing: 2px;
+      fill: url(#titleGradient);
+    }
+    .badge-text {
+      font-family: "JetBrains Mono", "SF Mono", Menlo, Consolas, monospace;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 1px;
+      fill: #38bdf8;
+    }
+    .subtitle {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-size: 16px;
+      font-weight: 500;
+      fill: #94a3b8;
+    }
+    .subtitle-highlight {
+      font-weight: 700;
+      fill: #38bdf8;
+    }
+    .tag-text {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-size: 12px;
+      font-weight: 600;
+      fill: #cbd5e1;
+    }
+    .pulse-dot {
+      animation: pulse 2s infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.8; }
+      50% { opacity: 0.3; }
+    }
+  </style>
+
+  <!-- Container Box with Rounded Corners -->
+  <rect width="1000" height="220" rx="16" fill="url(#bgGradient)" stroke="#30363d" stroke-width="1.5" />
+
+  <!-- Ambient Glow Behind Elements -->
+  <circle cx="150" cy="50" r="90" fill="#38bdf8" fill-opacity="0.08" filter="url(#glow)" />
+  <circle cx="850" cy="160" r="110" fill="#6366f1" fill-opacity="0.08" filter="url(#glow)" />
+  <circle cx="500" cy="110" r="80" fill="#10b981" fill-opacity="0.05" filter="url(#glow)" />
+
+  <!-- Grid Overlay -->
+  <rect width="1000" height="220" rx="16" fill="url(#grid)" />
+
+  <!-- Top Accent Beam -->
+  <rect x="0" y="0" width="1000" height="3" fill="url(#beamGradient)" />
+
+  <!-- Status Badge (Top-Right) -->
+  <g transform="translate(770, 26)">
+    <rect width="190" height="26" rx="13" fill="#161b22" stroke="#30363d" stroke-width="1" />
+    <circle cx="16" cy="13" r="4" fill="#10b981" class="pulse-dot" />
+    <text x="28" y="17" class="badge-text">STATUS: ACTIVE &amp; OPEN</text>
+  </g>
+
+  <!-- Role Indicator Tag (Top-Left) -->
+  <g transform="translate(40, 26)">
+    <rect width="155" height="26" rx="13" fill="#0d1f33" stroke="#1d4ed8" stroke-width="1" />
+    <circle cx="14" cy="13" r="3.5" fill="#38bdf8" />
+    <text x="26" y="17" class="badge-text">ENTERPRISE AI ARCH</text>
+  </g>
+
+  <!-- Main Title -->
+  <text x="40" y="98" class="title">FURKAN SARICA</text>
+
+  <!-- Subtitle -->
+  <text x="42" y="128" class="subtitle">
+    <tspan class="subtitle-highlight">AI Solutions Engineer</tspan> @ CloudSpark Cloud Data &amp; AI Technologies
+  </text>
+
+  <!-- Tags / Pillars Row -->
+  <g transform="translate(40, 155)">
+    <!-- Tag 1 -->
+    <rect x="0" y="0" width="200" height="32" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1" />
+    <circle cx="16" cy="16" r="3" fill="#38bdf8" />
+    <text x="28" y="20" class="tag-text">AI Agents &amp; Enterprise RAG</text>
+
+    <!-- Tag 2 -->
+    <rect x="215" y="0" width="205" height="32" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1" />
+    <circle cx="231" cy="16" r="3" fill="#10b981" />
+    <text x="243" y="20" class="tag-text">SAP B1 &amp; System Integration</text>
+
+    <!-- Tag 3 -->
+    <rect x="435" y="0" width="185" height="32" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1" />
+    <circle cx="451" cy="16" r="3" fill="#f59e0b" />
+    <text x="463" y="20" class="tag-text">FastAPI &amp; Backend APIs</text>
+
+    <!-- Tag 4 -->
+    <rect x="635" y="0" width="200" height="32" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1" />
+    <circle cx="651" cy="16" r="3" fill="#a855f7" />
+    <text x="663" y="20" class="tag-text">Docker, K8s &amp; Homelab</text>
+  </g>
+
+  <!-- Bottom Accent Gradient Line -->
+  <rect x="0" y="217" width="1000" height="3" fill="url(#beamGradient)" />
+</svg>

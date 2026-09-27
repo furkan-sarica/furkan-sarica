@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:238636&height=220&section=header&text=Furkan%20SARICA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Solutions%20Engineer%20%7C%20AI%20Agents%2C%20RAG%20%26%20LLM%20Applications%20%7C%20Enterprise%20AI%20%26%20DevOps&descSize=16&descColor=c9d1d9&descAlignY=55" width="100%" />
+<img src="https://raw.githubusercontent.com/furkan-sarica/furkan-sarica/main/assets/banner.svg" alt="Furkan SARICA - AI Solutions Engineer" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+production-focused+AI+solutions;Designing+AI+agents%2C+RAG%2C+and+LLM+applications;Integrating+AI+capabilities+into+enterprise+workflows;Deploying+scalable+backend+systems+and+infrastructure)](https://git.io/typing-svg)
 
@@ -155,7 +155,7 @@ current_direction: Building reliable, scalable enterprise AI architectures that 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/furkan-sarica/furkan-sarica/main/assets/footer.svg" alt="Footer Divider" width="100%"/>
 
 **Building reliable AI systems that solve real business problems, not just impressive demos.**
 
