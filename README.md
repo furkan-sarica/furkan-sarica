@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:238636&height=220&section=header&text=Furkan%20SARICA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MIS%20Student%20%7C%20DevOps%20%2B%20Cloud%20%2B%20Network%20%7C%20ERP%2FCRM%20%2B%20AI%20Business%20Systems&descSize=16&descColor=c9d1d9&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:238636&height=220&section=header&text=Furkan%20SARICA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Solutions%20Engineer%20%7C%20AI%20Agents%2C%20RAG%20%26%20LLM%20Applications%20%7C%20Enterprise%20AI%20%26%20DevOps&descSize=16&descColor=c9d1d9&descAlignY=55" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI-supported+business+systems;Designing+DevOps%2C+cloud+and+network+infrastructure;Connecting+ERP%2FCRM+workflows+with+real+technical+operations;Turning+project+ideas+into+production-minded+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+production-focused+AI+solutions;Designing+AI+agents%2C+RAG%2C+and+LLM+applications;Integrating+AI+capabilities+into+enterprise+workflows;Deploying+scalable+backend+systems+and+infrastructure)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=furkan-sarica&color=58a6ff&style=flat-square&label=Profile+Views)
 
@@ -16,20 +16,23 @@
 
 ## About
 
-I am a Management Information Systems student focused on the point where **business workflows meet technical infrastructure**.
+I build production-focused AI solutions across AI agents, RAG, LLM applications, enterprise integrations, and backend systems.
 
-My work combines **DevOps, cloud infrastructure, network engineering, ERP/CRM systems, Linux-based operations, full-stack development, and AI-assisted business applications**. I like building systems that are not only technically clean, but also useful for real operational processes.
+My experience spans applied AI, enterprise software, DevOps, and infrastructure, including previous experience at Microsoft and hands-on work with Python, FastAPI, Docker, Kubernetes, and SAP Business One. I hold a degree in Management Information Systems and have expanded my technical background through programs and certifications from Stanford, IBM, Akamai Technologies, and NVIDIA.
+
+My focus is simple: building reliable AI systems that solve real business problems, not just impressive demos.
 
 ```yaml
 name: Furkan SARICA
-education: Management Information Systems
-location: Istanbul, Turkiye
+role: AI Solutions Engineer @ CLOUDSPARK CLOUD DATA&AI TECHNOLOGIES
+education: Management Information Systems (B.Sc., Honor Degree)
+location: Istanbul / Ankara, Turkiye
 focus:
-  - DevOps, cloud and network engineering
-  - ERP/CRM and enterprise business systems
-  - AI-supported productivity and decision-support tools
-  - Linux, containers, observability and automation
-current_direction:
+  - AI Agents, RAG, and LLM Applications
+  - Enterprise ERP Integrations (SAP Business One)
+  - Backend Development & REST APIs
+  - DevOps, Containers & Infrastructure Automation
+current_direction: Building reliable AI solutions that integrate seamlessly with enterprise workflows.
 ```
 
 ---
@@ -38,11 +41,10 @@ current_direction:
 
 | Area | Focus | Tools & Concepts |
 | --- | --- | --- |
-| AI Business Systems | AI-supported CRM, decision support, prompt generation and productivity assistants | LLMs, prompt engineering, REST APIs, JSON schemas |
-| ERP / CRM | Business process mapping, RBAC, lead-to-cash, inventory and reporting flows | ERPNext, CRM workflows, BPM, data models |
-| DevOps & Cloud | Repeatable infrastructure, CI/CD, GitOps, containerized services | Linux, Docker, Kubernetes/K3s, Terraform, GitHub Actions |
-| Observability | Logs, metrics, dashboards, uptime and service health | Prometheus, Grafana, Loki, rsyslog |
-| Networking | Secure remote access, routing labs, troubleshooting and segmentation | WireGuard, OpenVPN, DNS, SSH, tcpdump, nmap |
+| Applied AI & RAG | Designing local, privacy-first RAG pipelines and LLM-powered assistants. | LlamaIndex, LangChain, Embeddings, Vector Stores |
+| AI Agents & Workflows | Building multi-step AI agents capable of reasoning, planning, and task execution. | Prompt Engineering, Function Calling, Task Automation |
+| Enterprise Integration | Connecting AI capabilities directly to ERP systems (like SAP B1) and business workflows. | Python, FastAPI, Flask, REST APIs |
+| DevOps & Infrastructure | Deploying and operating containerized services reliably and at scale. | Docker, Kubernetes, Linux, CI/CD |
 
 ---
 
@@ -50,11 +52,11 @@ current_direction:
 
 | Project | What it does | Stack / Focus |
 | --- | --- | --- |
-| **[k8s-homelab](https://github.com/furkan-sarica/k8s-homelab)** | Production-style Kubernetes homelab with GitOps, ingress, monitoring and automated deployments. | K3s, ArgoCD, Prometheus, Grafana |
-| **[docker-compose-stacks](https://github.com/furkan-sarica/docker-compose-stacks)** | Reusable self-hosted service stacks for local and small-business infrastructure. | Docker, Compose, Traefik, Portainer |
-| **[terraform-aws-modules](https://github.com/furkan-sarica/terraform-aws-modules)** | Reusable AWS infrastructure modules for consistent cloud environments. | Terraform, AWS, HCL |
-| **[monitoring-stack](https://github.com/furkan-sarica/monitoring-stack)** | Observability stack for service health, metrics, dashboards and alerting. | Prometheus, Grafana, Loki, Alertmanager |
-| **[network-automation](https://github.com/furkan-sarica/network-automation)** | Network automation and troubleshooting workflows for repeatable infrastructure operations. | Python, Netmiko, NAPALM, Nornir |
+| **[Tracefold](https://github.com/fufuizm/Tracefold)** | Privacy-first, fully local RAG assistant powered by Microsoft Foundry Local. Built during the Microsoft AI Innovators program. | RAG, Vector Search, Local LLMs |
+| **[Roadmind](https://github.com/fufuizm/Roadmind)** | AI Project Prompt Studio for Coding Agents, streamlining development workflows. | AI Agents, Prompt Studio |
+| **[AI-Powered CRM](https://github.com/fufuizm/ai-powered-crm)** | Operational CRM & Decision Support Platform augmented with AI capabilities. | CRM, AI Integration, Python |
+| **[vCalendar & vHealth](https://github.com/fufuizm/vcalendar)** | AI-Powered Calendar/Productivity and Personal Health assistants. | LLM Applications, Productivity |
+| **[Homelab / Infra](https://github.com/fufuizm/k8s-homelab)** | AI-Powered Container-Based Server & Infrastructure Automation System. | Kubernetes, Docker, Automation |
 
 ---
 
@@ -62,37 +64,56 @@ current_direction:
 
 <div align="center">
 
-### Cloud, DevOps & Infrastructure
+### AI & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Backend & Enterprise
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logo=erpnext&logoColor=white)
+
+### DevOps & Infrastructure
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### Development & Data
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Business Systems, AI & Observability
-![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logo=erpnext&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 </div>
 
 ---
 
+## Certifications & Highlights
+
+- **Stanford University** - Artificial Intelligence Professional Certificate
+- **Microsoft** - AI & ML Engineering Professional Certificate
+- **Vanderbilt University** - Generative AI Software Engineering Specialization
+- **IBM and ISC2** - Cybersecurity Specialist Professional Certificate
+- **IBM** - DevOps and Software Engineering Professional Certificate
+- **AWS** - Cloud Solutions Architect Professional Certificate
+- **Google** - IT Support Professional Certificate
+- **Meta** - iOS Developer Professional Certificate
+- **Akamai** - Network Engineering Professional Certificate
+- **NVIDIA** - Developer Program Member
+
+---
+
+## Organizations
+
+- **Association for the Advancement of Artificial Intelligence (AAAI)** - Member
+- **Yapay Zeka ve Teknoloji Derneği (YZTD)** - Member
+
+---
+
 ## Current Roadmap
 
-- Keep improving DevOps foundations: Linux, Docker, Kubernetes, networking, CI/CD and cloud automation.
+- Scaling and securing enterprise AI agents in production environments.
+- Deepening expertise in specialized LLM integration, advanced RAG architectures, and hybrid cloud operations.
 
 ---
 
@@ -101,7 +122,7 @@ current_direction:
 <div align="center">
 
 ![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkan-sarica&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furkan-sarica&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github.readme-stats.vercel.app/api/top-langs/?username=furkan-sarica&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
@@ -109,6 +130,6 @@ current_direction:
 
 <div align="center">
 
-**Open to learning, building and collaborating around DevOps, cloud, networking, ERP/CRM systems and AI-supported business applications.**
+**Building reliable AI systems that solve real business problems, not just impressive demos.**
 
 </div>
