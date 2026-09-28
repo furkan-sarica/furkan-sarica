@@ -2,161 +2,141 @@
 
 <img src="https://raw.githubusercontent.com/furkan-sarica/furkan-sarica/main/assets/banner.svg" alt="Furkan SARICA - AI Solutions Engineer" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+production-focused+AI+solutions;Designing+AI+agents%2C+RAG%2C+and+LLM+applications;Integrating+AI+capabilities+into+enterprise+workflows;Deploying+scalable+backend+systems+and+infrastructure)](https://git.io/typing-svg)
+<br/><br/>
 
-[![Location](https://img.shields.io/badge/Location-%C3%87ankaya%2C%20Ankara%2C%20TR-1f6feb?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Cankaya,Ankara)
-[![Portfolio](https://img.shields.io/badge/Portfolio-furkan--sarica.github.io-00ff88?style=flat-square&logo=firefox&logoColor=black)](https://furkan-sarica.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Furkan%20SARICA-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-sarica/)
-[![Email](https://img.shields.io/badge/Email-sarica.furkan%40icloud.com-EA4335?style=flat-square&logo=apple&logoColor=white)](mailto:sarica.furkan@icloud.com)
-![Profile Views](https://komarev.com/ghpvc/?username=furkan-sarica&color=58a6ff&style=flat-square&label=Profile+Views)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-furkan--sarica.github.io-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://furkan-sarica.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Furkan_SARICA-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-sarica/)
+[![Email](https://img.shields.io/badge/Direct_Contact-sarica.furkan%40icloud.com-38bdf8?style=for-the-badge&logo=apple&logoColor=white)](mailto:sarica.furkan@icloud.com)
+[![Location](https://img.shields.io/badge/Location-Ankara%2C_TR-30363d?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Cankaya,Ankara)
 
 </div>
 
+<br/>
+
+### ⚡ Architectural Summary
+
+> **AI Solutions Engineer** at **CloudSpark Cloud Data & AI Technologies** specializing in **production-focused AI systems, local & privacy-first RAG pipelines, autonomous AI agents, enterprise ERP integrations, and resilient backend infrastructure**.
+> 
+> Technical background includes architecting **Tracefold** (local bilingual RAG assistant on Microsoft Foundry Local during Microsoft AI Innovators), engineering **SAP Business One** intelligent automation services, and managing bare-metal Kubernetes container infrastructure. Focused on deterministic, verified AI systems that solve mission-critical business problems rather than fragile prototypes.
+
 ---
 
-## 📌 About
+### 🏛️ Core Engineering Pillars
 
-I build production-focused AI solutions across **AI agents, RAG, LLM applications, enterprise integrations, and backend systems**.
-
-My experience spans applied AI, enterprise software, DevOps, and infrastructure, including previous experience at **Microsoft** and hands-on work with **Python, FastAPI, Docker, Kubernetes, and SAP Business One**. I hold a degree in Management Information Systems and have expanded my technical background through programs and certifications from **Stanford, IBM, Akamai Technologies, and NVIDIA**.
-
-My focus is simple: **building reliable AI systems that solve real business problems, not just impressive demos.**
-
-```yaml
-name: Furkan SARICA
-role: AI Solutions Engineer @ CloudSpark Cloud Data & AI Technologies
-education: Management Information Systems (B.Sc., 3.10 / 4.00 Honor Degree)
-location: Çankaya, Ankara, Türkiye
-focus:
-  - AI Agents, RAG, and LLM Applications
-  - Enterprise ERP Integrations (SAP Business One)
-  - Backend Services & High-Performance REST APIs
-  - DevOps, Container Orchestration & Infrastructure Automation
-current_direction: Building reliable, scalable enterprise AI architectures that deliver measurable operational value.
+```
+┌───────────────────────────────────────┬───────────────────────────────────────┐
+│ 🤖 Enterprise AI & Local RAG          │ ⚙️ Enterprise Integration & ERP       │
+├───────────────────────────────────────┼───────────────────────────────────────┤
+│ • Production RAG Pipelines & Embeddings│ • SAP Business One Service Layer      │
+│ • Local LLM Inference (Foundry/Ollama)│ • Deterministic Business Workflows    │
+│ • Bilingual Safe-Refusal Evaluation   │ • FastAPI / Python High-Load Backends │
+│ • Protected-Fact Grounding & Citations│ • RESTful Microservices & Webhooks    │
+├───────────────────────────────────────┼───────────────────────────────────────┤
+│ ☁️ Cloud, Containers & DevOps         │ 📊 High-Performance Observability     │
+├───────────────────────────────────────┼───────────────────────────────────────┤
+│ • Kubernetes (K3s) & Docker Swarm     │ • Prometheus, Grafana & Loki Stack    │
+│ • Zero-Secret CI/CD with Gitleaks v3  │ • Bare-Metal Homelab (BBR/FQ Tuned)   │
+│ • GitOps Workflows & Linux Hardening  │ • Tailscale / WireGuard Encrypted Mesh│
+└───────────────────────────────────────┴───────────────────────────────────────┘
 ```
 
 ---
 
-## 🛠️ What I Build
+### 🚀 Featured Production Builds
 
-| Area | Focus | Tools & Concepts |
-| --- | --- | --- |
-| **Applied AI & RAG** | Designing local, privacy-first RAG pipelines and LLM-powered assistants. | LlamaIndex, LangChain, Embeddings, Vector Stores, Cosine Similarity |
-| **AI Agents & Workflows** | Building multi-step AI agents capable of deterministic reasoning, planning, and task execution. | Prompt Engineering, Function Calling, Task Automation, Protected-Fact Verification |
-| **Enterprise Integration** | Connecting AI capabilities directly to ERP systems (like SAP Business One) and business workflows. | Python, FastAPI, Flask, REST APIs, JSON Schemas, B1 Service Layer |
-| **DevOps & Infrastructure** | Deploying and operating containerized services reliably and at scale. | Docker, Kubernetes/K3s, Linux, CI/CD, GitOps, Prometheus, Grafana |
+#### 🔹 [Tracefold — Local Source-Grounded RAG Assistant](https://github.com/furkan-sarica/tracefold)
+> **Engineered during Microsoft AI Innovators Summer Program**
+> - Privacy-first, 100% offline Retrieval-Augmented Generation assistant powered by **Microsoft Foundry Local**.
+> - Built-in cosine similarity vector store (SQLite), citation verification, and deterministic refusal safeguards.
+> - Verified **24/24 evaluation suite** across bilingual English–Turkish test cases.
+> - `Stack:` Python · Microsoft Foundry Local · SQLite Vectors · FastAPI · Offline Embeddings
+
+#### 🔹 [Interactive Portfolio & AI Terminal Shell](https://github.com/furkan-sarica/furkan-sarica.github.io)
+> **Live Production Edge Deployment:** [furkan-sarica.github.io](https://furkan-sarica.github.io)
+> - Progressive Web App (PWA) with full W3C offline caching engine and macOS-style floating window manager.
+> - Embedded **DiffusionGemma-26B** neural assistant running via Cloudflare Workers streaming edge proxy.
+> - Automated **10/10 DevSecOps CI/CD**: Pre-flight integrity verification, Gitleaks v3 secret gate, zero-downtime deploy.
+> - `Stack:` JavaScript (ES6+) · Cloudflare Workers Edge · GitHub Actions · PWA / Service Workers
+
+#### 🔹 Enterprise SAP Business One AI Agent Platform
+> **Enterprise Integration @ Logosoft & Binsal Bilişim**
+> - Multi-entity AI agent platform interfacing directly with **SAP Business One Service Layer**.
+> - Automated approval workflows, invoice analysis, inventory tracking, and schema-validated ERP transactions.
+> - `Stack:` Python · Flask · SAP Business One B1SL · SQLite · Enterprise AI Agents
+
+#### 🔹 [Bare-Metal Homelab & Kubernetes Cluster](https://github.com/furkan-sarica/k8s-homelab)
+> **24/7 Production Node (ASUS UX310UQK / UmbrelOS Core)**
+> - Full bare-metal containerized lab with Linux TCP BBR + FQ network tuning for high-throughput media and RPC.
+> - Automated GitOps deployments, K3s orchestration, AdGuard DNS sinkhole, and encrypted Tailscale overlay network.
+> - `Stack:` Linux (Debian) · K3s · Docker Compose · Tailscale Mesh · Prometheus · Grafana
 
 ---
 
-## 🚀 Featured Builds
-
-| Project | What it does | Stack / Focus |
-| --- | --- | --- |
-| **[Tracefold](https://github.com/furkan-sarica/tracefold)** | Privacy-first, fully local RAG assistant powered by Microsoft Foundry Local, SQLite vectors & bilingual evaluation suite (24/24 eval pass). | RAG, FastAPI, Vector Search, Local LLMs |
-| **[SAP B1 AI Platform](https://github.com/furkan-sarica)** | Enterprise AI agent platform synchronizing 58+ entities with deterministic validation and SAP write flows. | SAP Business One, Python, Flask, AI Agents |
-| **[Roadmind](https://github.com/furkan-sarica)** | AI Project Prompt Studio for Coding Agents, streamlining structured prompt workflows. | React, TypeScript, NVIDIA NIM, Ollama |
-| **[k8s-homelab](https://github.com/furkan-sarica/k8s-homelab)** | Production-style Kubernetes homelab with GitOps, ingress, monitoring and automated deployments. | K3s, ArgoCD, Prometheus, Grafana |
-| **[monitoring-stack](https://github.com/furkan-sarica/monitoring-stack)** | Enterprise-grade observability stack for service health, metrics, dashboards and alerting. | Prometheus, Grafana, Loki, Alertmanager |
-
----
-
-## 💻 Tech Stack
+### 💻 Tech Stack & Tooling
 
 <div align="center">
 
-### AI & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,linux,postgres,sqlite,ts,react,vite,githubactions,terraform,aws,grafana&theme=dark" alt="Core Tech Stack" />
 
-### Backend & Enterprise
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logo=erpnext&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP_Business_One-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+<br/><br/>
 
-### DevOps & Infrastructure
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-### Frontend & Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+[![SAP B1](https://img.shields.io/badge/SAP_Business_One-0FAAFF?style=flat-square&logo=sap&logoColor=white)](https://www.sap.com)
+[![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=flat-square&logo=erpnext&logoColor=white)](https://erpnext.com)
+[![Microsoft Foundry](https://img.shields.io/badge/Microsoft_Foundry_Local-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://azure.microsoft.com)
+[![NVIDIA](https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://developer.nvidia.com)
+[![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)](https://ollama.ai)
+[![Tailscale](https://img.shields.io/badge/Tailscale_Mesh-24292F?style=flat-square&logo=tailscale&logoColor=white)](https://tailscale.com)
+[![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)](https://www.wireguard.com)
 
 </div>
 
 ---
 
-## 📜 Certifications & Highlights
+### 📜 Professional Certifications & Credentials
 
-- **Stanford University** — Artificial Intelligence Professional Certificate
-- **Microsoft** — AI & ML Engineering Professional Certificate
-- **Vanderbilt University** — Generative AI Software Engineering Specialization
-- **NVIDIA** — Developer Program Member
-- **IBM & ISC2** — Cybersecurity Specialist Professional Certificate
-- **AWS** — Cloud Solutions Architect Professional Certificate
-- **IBM** — DevOps and Software Engineering Professional Certificate
-- **Google** — IT Support Professional Certificate
-- **Meta** — iOS Developer Professional Certificate
-- **Akamai Technologies** — Network Engineering Professional Certificate
-
----
-
-## 🎓 Education
-
-- **Istanbul Gelisim University** — B.Sc. in Management Information Systems (2022 – 2026) · GPA: 3.10 / 4.00 (Honor Degree)
-- **Özel Aksaray Vizyon Akademi Anadolu Lisesi** — High School Diploma, Equal Weight (2016 – 2020) · Grade: 90.07 / 100
+| Specialization | Issuing Institution / Authority | Focus Area |
+| :--- | :--- | :--- |
+| **Artificial Intelligence Professional** | Stanford University | Deep Learning, Machine Learning & AI Foundations |
+| **AI & ML Engineering Professional** | Microsoft | Enterprise ML Pipelines, Cognitive Services |
+| **Generative AI Software Engineering** | Vanderbilt University | Prompt Engineering, LLM System Architecture |
+| **NVIDIA Developer Program** | NVIDIA | GPU-Accelerated Computing & AI Inference |
+| **DevOps and Software Engineering** | IBM | CI/CD Pipelines, Microservices, Agile DevOps |
+| **Cybersecurity Specialist** | IBM & ISC2 | Infrastructure Security, Threat Mitigation |
+| **Cloud Solutions Architect** | Amazon Web Services (AWS) | Scalable Cloud Infrastructure & VPC Design |
+| **Network Engineering Professional** | Akamai Technologies | CDN, Routing, DNS & Network Defense |
+| **IT Support Professional** | Google | System Administration, OS Internals & Networking |
+| **iOS Developer Professional** | Meta | Mobile Engineering & Application Architecture |
 
 ---
 
-## 🏛️ Organizations
+### 🏛️ Professional Organizations & Education
 
-- **Association for the Advancement of Artificial Intelligence (AAAI)** — Member (Aug 2026 – Present)
-- **Yapay Zeka ve Teknoloji Derneği (YZTD)** — Member (May 2026 – Present)
+- 🌐 **Association for the Advancement of Artificial Intelligence (AAAI)** — Member (2026 – Present)
+- 🇹🇷 **Yapay Zeka ve Teknoloji Derneği (YZTD)** — Member (2026 – Present)
+- 🎓 **Istanbul Gelisim University** — B.Sc. Management Information Systems (Honor Degree, 3.10 / 4.00)
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Activity & Observability
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=furkan-sarica&show_icons=true&theme=github_dark&hide_border=true" alt="Furkan's GitHub stats" height="165" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=furkan-sarica&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=furkan-sarica&show_icons=true&bg_color=0d1117&title_color=38bdf8&icon_color=10b981&text_color=c9d1d9&border_color=30363d&border_radius=8" alt="GitHub Stats" height="165" />
+&nbsp;
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=furkan-sarica&layout=compact&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&border_color=30363d&border_radius=8" alt="Top Languages" height="165" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=furkan-sarica&background=0D1117&border=30363D&stroke=30363D&ring=10B981&fire=38BDF8&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=10B981&sideLabels=8B949E&dates=8B949E&border_radius=8" alt="GitHub Streak" height="165" />
+
+</div>
 
 <br/>
-
-<img src="https://streak-stats.demolab.com/?user=furkan-sarica&theme=dark&hide_border=true" alt="GitHub Streak" width="95%" />
-
-</div>
-
----
-
-## 🐍 Contribution Graph Eating Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/furkan-sarica/furkan-sarica/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/furkan-sarica/furkan-sarica/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/furkan-sarica/furkan-sarica/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
----
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/furkan-sarica/furkan-sarica/main/assets/footer.svg" alt="Footer Divider" width="100%"/>
 
-**Building reliable AI systems that solve real business problems, not just impressive demos.**
+<sub>Crafted with engineering rigor · Zero-secret DevSecOps · High-availability enterprise focus</sub>
 
 </div>
